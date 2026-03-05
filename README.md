@@ -19,7 +19,7 @@ Wiring Diagram:
 | :--- | :--- | :--- | :--- | :--- |
 | **Arduino Nano** | Microcontroller | [Link](https://a.co/d/0fQkU1aS) | 1 | $25.70 |
 | **AD8232 Module** | ECG Analog Front-End | [Link](https://www.digikey.com/short/b8dpq74t) | 1 | $24.41 |
-| **Electrode Leads** | 3.5mm Connector Leads | [Link](https://a.co/d/0dv8bVVe) | 1 | $31.32 |
+| **Electrode Leads** | 3.5mm Connector Leads | [Link](https://www.amazon.com/dp/B0CJ7FMSP4?ref_=cm_sw_r_cp_ud_dp_W29NXBJ8Z9SBM9XCGJ9G) | 1 | $31.32 |
 | **PLA Basic** | 3D Printing Filament | [Link](https://us.store.bambulab.com/products/pla-basic-filament) | 1 | $5.00 |
 | **Hardware/Misc** | Wire, Solder, etc. | N/A | 1 | $5.00 |
 | **Total** | | | | **$91.43** |
