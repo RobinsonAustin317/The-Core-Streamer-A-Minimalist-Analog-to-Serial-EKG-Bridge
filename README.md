@@ -15,10 +15,13 @@ Wiring Diagram:
 <img width="1862" height="1018" alt="Image 3-5-26 at 12 56" src="https://github.com/user-attachments/assets/21aad6c4-70f2-45c9-b03f-e96121c6b957" />
 
 [BOM.csv](https://github.com/user-attachments/files/25776720/BOM.csv)
-Item,Description,URL,Quantity,Unit Price
-Arduino Nano,Microcontroller,https://a.co/d/0fQkU1aS,1,$25.70
-AD8232,ECG module,https://www.digikey.com/short/b8dpq74t,1,$24.41
-Electrode lead,Electrode lead,https://a.co/d/0dv8bVVe,1,$31.32
-PLA Basic,PLA Filament,https://us.store.bambulab.com/products/pla-basic-filament,1,$5.00
-Hardware/Misc,Wire Solder Etc,NA,1,$5.00
-,,,Total,$91.43
+| Item | Description | URL | Quantity | Unit Price |
+| :--- | :--- | :--- | :--- | :--- |
+| **Arduino Nano** | Microcontroller | [Link](https://a.co/d/0fQkU1aS) | 1 | $25.70 |
+| **AD8232 Module** | ECG Analog Front-End | [Link](https://www.digikey.com/short/b8dpq74t) | 1 | $24.41 |
+| **Electrode Leads** | 3.5mm Connector Leads | [Link](https://a.co/d/0dv8bVVe) | 1 | $31.32 |
+| **PLA Basic** | 3D Printing Filament | [Link](https://us.store.bambulab.com/products/pla-basic-filament) | 1 | $5.00 |
+| **Hardware/Misc** | Wire, Solder, etc. | N/A | 1 | $5.00 |
+| **Total** | | | | **$91.43** |
+
+SAFETY WARNING: This device is for educational and hobbyist purposes only. It is NOT a medical diagnostic tool. To prevent electrical shock, ONLY power this device via a battery or a laptop that is NOT plugged into a wall outlet while the electrodes are attached to a person.
